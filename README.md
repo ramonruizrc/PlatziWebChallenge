@@ -1,1 +1,1 @@
-# PlatziWebChallenge
+# Platzi Web Challenge
